@@ -58,14 +58,5 @@ To automatically detect and classify spam messages from regular ones, helping us
 - TF-IDF improved model performance significantly.
 - Easy to scale for email or chat moderation.
 
----
 
-## 📬 Contact
-
-**Jayshree Jena**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
-💻 [GitHub Profile]
-
----
 
